@@ -1,5 +1,5 @@
 # First
 My first repository.
 <br>
-Author:Alakes hDebnath
+Author:Alakesh hDebnath
 Sponserd:Alakesh Debnath
